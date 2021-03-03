@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 """
+Sourced from: https://github.com/hugovk/pypi-tools
+
+
 For a given project, or all projects:
 * Fetch pip installs for each Python in a given month of a year
 * Save in a JSON file for each month of a year
